@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+
+}
+
+#imageOne {
+    border: 2px solid black;
+    border-radius: 75px 25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#imageTwo {
+    border: 2px solid black;
+    border-radius: 25px 75px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
